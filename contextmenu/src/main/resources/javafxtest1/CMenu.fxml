@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<ContextMenu id="cmenu" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+  <items>
+    <MenuItem id="menu1" mnemonicParsing="false" text="Show" />
+      <MenuItem id="exit" mnemonicParsing="false" text="Exit" />
+  </items>
+</ContextMenu>
